@@ -1,8 +1,6 @@
-# myVueDemo
-此项目活综合运用vue-cli webback自动打包模块化开发
-
 # 技术栈
-vue+vue-router+muse-ui搭建一个论坛类的移动端demo。实现单页面应用，多级路由。
+此项目活综合运用vue-cli webback自动打包模块化开发
+vue+vue-router+Muse-UI搭建一个论坛类的移动端demo。实现单页面应用，多级路由。
 
 # 安装运行
 # install dependencies
