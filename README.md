@@ -4,19 +4,10 @@ vue+vue-router+Muse-UI搭建一个论坛类的移动端demo。实现单页面应
 
 # 安装运行
 install dependencies
-npm install
+# npm install
 
 serve with hot reload at localhost:8080
-npm run dev
+# npm run dev
 
 build for production with minification
-npm run build
-
-run unit tests
-npm run unit
-
-run e2e tests
-npm run e2e
-
-run all tests
-npm test
+# npm run build
